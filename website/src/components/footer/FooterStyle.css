@@ -1,0 +1,36 @@
+.footer{
+    width: 100%;
+    padding: 2rem;
+    background-color: black;
+    color: #333;
+}
+.footer h3{
+    color: var(--primary-light);
+}
+.footer .top,.bottom{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer .social{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+.footer .icon{
+    color: var(--primary-light);
+}
+.footer .left,.right{
+    display: flex;
+    align-items: center;
+}
+.li{
+    display: flex;
+    flex-direction: column;
+    padding: .5rem;
+    
+}
+
+ 
+    

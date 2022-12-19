@@ -1,0 +1,48 @@
+.footer{
+    width: 100%;
+    padding: 2rem 0;
+    background-color: rgb(57, 57, 70);
+}
+ .Container{
+    display: flex;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1.2rem;
+    flex-direction:row;
+
+}
+
+.col{
+    margin: auto;
+}
+
+.footer h3{
+    margin: 1rem 0;
+}
+
+.footer p{
+    margin: .4rem 0;
+}
+
+.footer.social{
+    text-align: center;
+    
+}
+
+.icon{
+    font-size: 2rem;
+    margin: 2rem 3rem;  
+    color: blueviolet;
+}
+
+@media screen and(max-width:940px) {
+    .Container{
+        grid-template-columns: repeat(2,1rem);
+        gap: .5rem;
+        
+    }
+    .icon{
+        margin: 1rem 0;
+        display: none;
+    }
+    
+} 

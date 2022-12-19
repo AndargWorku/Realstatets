@@ -1,0 +1,10 @@
+.chemo{
+    padding: 2rem 0;
+}
+.chemo img{
+    height: 94vh;
+    object-fit: cover;
+}
+.thumbs-wrapper,.chemo-status{
+    display: none;
+}
