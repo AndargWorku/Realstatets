@@ -1,0 +1,63 @@
+.hero{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    color: #fff;
+}
+.Overlay{
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+#video{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+.Content{
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+    flex-direction: column;
+    text-align: center;
+    top: 0;
+    margin: auto;
+    justify-content: center;
+}
+.form{
+    display: flex;
+    background-color: #ffffffcc;
+    color: black;
+    justify-content: space-between;
+    align-items: center;
+    border: 1 solid #ccc;
+    border-radius: 8px;
+    padding: 4px;
+    max-width: 700px;
+    width: 100%;
+    margin: 0 1rem;
+
+}
+.form input[type=text]{
+    border: transparent;
+    background-color: transparent;
+    width: 400px;
+    font-size: 1.2rem;
+    font-family: 'poppins' sans-serif;
+
+}
+.form input[type=text]:focus{
+    outline: none;
+
+}
+@media screen and(max-width:940px) {
+    .form input[type=text]{
+        max-width: 275px;
+    }
+    
+}
