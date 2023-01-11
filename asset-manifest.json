@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Realstatets/static/css/main.c344909e.css",
+    "main.js": "/Realstatets/static/js/main.bc07cd91.js",
+    "static/media/kill.jpg": "/Realstatets/static/media/kill.d85a19b4cf8ee8e6f0bc.jpg",
+    "static/media/merkato.jpg": "/Realstatets/static/media/merkato.902d87cf991a2b0ad945.jpg",
+    "static/media/Alt3.jpg": "/Realstatets/static/media/Alt3.6b05a135621821d76a23.jpg",
+    "static/media/Alt2.jpg": "/Realstatets/static/media/Alt2.23061715659c7ac58e14.jpg",
+    "static/media/tall.jpg": "/Realstatets/static/media/tall.1c369af56251483ba86a.jpg",
+    "static/media/Alt1.jpg": "/Realstatets/static/media/Alt1.b22c27120be7c4bd9914.jpg",
+    "static/media/megenagna.jpg": "/Realstatets/static/media/megenagna.87a23966c1c00259da84.jpg",
+    "static/media/bole.jpg": "/Realstatets/static/media/bole.7577a303992039913d3e.jpg",
+    "static/media/bu.jpg": "/Realstatets/static/media/bu.e0ded69cc9119537e24f.jpg",
+    "index.html": "/Realstatets/index.html",
+    "main.c344909e.css.map": "/Realstatets/static/css/main.c344909e.css.map",
+    "main.bc07cd91.js.map": "/Realstatets/static/js/main.bc07cd91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c344909e.css",
+    "static/js/main.bc07cd91.js"
+  ]
+}
