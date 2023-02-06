@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/Banksystem/static/css/main.73f80758.css",
-    "main.js": "/Banksystem/static/js/main.44e31d1a.js",
-    "static/media/Video.mp4": "/Banksystem/static/media/Video.8366845f1f7d42354d05.mp4",
-    "static/media/istock.jpg": "/Banksystem/static/media/istock.cb364533c08164845df9.jpg",
-    "static/media/Icon2.png": "/Banksystem/static/media/Icon2.9244cae797eb911fcefb.png",
-    "index.html": "/Banksystem/index.html",
-    "main.73f80758.css.map": "/Banksystem/static/css/main.73f80758.css.map",
-    "main.44e31d1a.js.map": "/Banksystem/static/js/main.44e31d1a.js.map"
+    "main.css": "/Bookingapp/static/css/main.3409ba3c.css",
+    "main.js": "/Bookingapp/static/js/main.2ac3d57c.js",
+    "index.html": "/Bookingapp/index.html",
+    "main.3409ba3c.css.map": "/Bookingapp/static/css/main.3409ba3c.css.map",
+    "main.2ac3d57c.js.map": "/Bookingapp/static/js/main.2ac3d57c.js.map"
   },
   "entrypoints": [
-    "static/css/main.73f80758.css",
-    "static/js/main.44e31d1a.js"
+    "static/css/main.3409ba3c.css",
+    "static/js/main.2ac3d57c.js"
   ]
 }
